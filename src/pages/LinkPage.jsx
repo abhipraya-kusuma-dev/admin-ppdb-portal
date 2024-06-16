@@ -26,19 +26,19 @@ const LinkPage = () => {
             </AccordionTrigger>
             <AccordionContent className="text-gray-500">
               <ul className="pl-2">
-                <li
-                  className="
-                      focus:outline-none hover:my-1 hover:p-2 hover:px-4 hover:border hover:rounded-lg hover:border-none hover:bg-gray-500 hover:text-white transition-all duration-200 my-1"
-                >
-                  <a href="https://seragam.sekolahwijayakusuma.sch.id/login">
+                <li>
+                  <a
+                    href="https://seragam.sekolahwijayakusuma.sch.id/login"
+                    className="focus:outline-none hover:my-1 hover:p-2 hover:px-4 hover:border hover:rounded-lg hover:border-none hover:bg-gray-500 hover:text-white transition-all duration-200 my-1"
+                  >
                     Login ke Admin Gudang
                   </a>
                 </li>
-                <li
-                  className="
-                      focus:outline-none hover:my-1 hover:p-2 hover:px-4 hover:border hover:rounded-lg hover:border-none hover:bg-gray-500 hover:text-white transition-all duration-200 my-1"
-                >
-                  <a href="https://seragam.sekolahwijayakusuma.sch.id/login">
+                <li>
+                  <a
+                    href="https://seragam.sekolahwijayakusuma.sch.id/login"
+                    className="focus:outline-none hover:my-1 hover:p-2 hover:px-4 hover:border hover:rounded-lg hover:border-none hover:bg-gray-500 hover:text-white transition-all duration-200 my-1"
+                  >
                     Login ke Admin Ukur
                   </a>
                 </li>
@@ -54,27 +54,27 @@ const LinkPage = () => {
             </AccordionTrigger>
             <AccordionContent className="text-gray-500">
               <ul className="pl-2">
-                <li
-                  className="
-                      focus:outline-none hover:my-1 hover:p-2 hover:px-4 hover:border hover:rounded-lg hover:border-none hover:bg-gray-500 hover:text-white transition-all duration-200 my-1"
-                >
-                  <a href="https://antrian.sekolahwijayakusuma.sch.id/antrian/daftar">
+                <li>
+                  <a
+                    href="https://antrian.sekolahwijayakusuma.sch.id/antrian/daftar"
+                    className="focus:outline-none hover:my-1 hover:p-2 hover:px-4 hover:border hover:rounded-lg hover:border-none hover:bg-gray-500 hover:text-white transition-all duration-200 my-1"
+                  >
                     Login ke Admin Daftar Antrian
                   </a>
                 </li>
-                <li
-                  className="
-                      focus:outline-none hover:my-1 hover:p-2 hover:px-4 hover:border hover:rounded-lg hover:border-none hover:bg-gray-500 hover:text-white transition-all duration-200 my-1"
-                >
-                  <a href="https://antrian.sekolahwijayakusuma.sch.id/login">
+                <li>
+                  <a
+                    href="https://antrian.sekolahwijayakusuma.sch.id/login"
+                    className=" focus:outline-none hover:my-1 hover:p-2 hover:px-4 hover:border hover:rounded-lg hover:border-none hover:bg-gray-500 hover:text-white transition-all duration-200 my-1"
+                  >
                     Login ke Admin Panggil Antrian
                   </a>
                 </li>
-                <li
-                  className="
-                      focus:outline-none hover:my-1 hover:p-2 hover:px-4 hover:border hover:rounded-lg hover:border-none hover:bg-gray-500 hover:text-white transition-all duration-200 my-1"
-                >
-                  <a href="https://antrian.sekolahwijayakusuma.sch.id/antrian">
+                <li>
+                  <a
+                    href="https://antrian.sekolahwijayakusuma.sch.id/antrian"
+                    className=" focus:outline-none hover:my-1 hover:p-2 hover:px-4 hover:border hover:rounded-lg hover:border-none hover:bg-gray-500 hover:text-white transition-all duration-200 my-1"
+                  >
                     Display Antrian
                   </a>
                 </li>
